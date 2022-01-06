@@ -3,7 +3,7 @@
 
 Please see pdf file "Findings_Report" for information about the development of the model.
 
-Jupyter notebook "diabetic_retinopathy_detector.ipynb" contains the code used.
+Jupyter notebook "diabetic_retinopathy_detector" contains the code used.
 
 Excel file "Metrics_Report" contains summarized metrics.
 
