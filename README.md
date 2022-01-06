@@ -1,5 +1,5 @@
 # Diabetic_Retinopathy_Detector
-Deep learning diabetic retinopathy detector with eye image input
+## Deep learning diabetic retinopathy detector with eye image input
 
 Please see pdf file "Findings_Report" for information about the development of the model.
 
